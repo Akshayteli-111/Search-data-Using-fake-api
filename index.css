@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+input#text {
+    border: none;
+    box-shadow: 0px 2px 5px 2px #ccc;
+    padding: 10px 30px;
+    color: #777;
+}
+ul#ul {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Poppins', sans-serif;
+}
+
+li {
+    width: 25%;
+    margin: 0px auto;
+}
+#ul p {
+    font-weight: 700;
+    min-height: 70px;
+}
